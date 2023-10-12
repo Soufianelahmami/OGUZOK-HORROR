@@ -17,44 +17,44 @@
     },
     "guideData": [
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_1",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3NNaJp.webp",
+            "title": "OGUZOK HORROR 1",
+            "text_Content_": "In a small, seemingly ordinary town named Oguzok, residents have been experiencing unexplainable and terrifying events"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_2",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3NN7gR.webp",
+            "title": "OGUZOK HORROR 2",
+            "text_Content_": "Strange occurrences, nightmares, and a sense of impending doom have gripped the community. The locals believe that an ancient curse, known as the Oguzok Horror, has awakened."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_3",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3NN50v.webp",
+            "title": "OGUZOK HORROR 3",
+            "text_Content_": "The protagonist, a paranormal investigator or a curious journalist, arrives in Oguzok to uncover the truth behind the legend. As they delve into the town's history, they discover that Oguzok was once home to a mysterious cult that worshipped a dark entity. The cult disappeared centuries ago, leaving behind a curse that lay dormant until now."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_4",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3NNRqJ.webp",
+            "title": "OGUZOK HORROR 4",
+            "text_Content_": "The horror begins to manifest in disturbing ways: shadowy figures in the periphery, eerie whispers in the night, and bizarre symbols appearing throughout the town. The protagonist must navigate through the increasingly nightmarish landscape, solving cryptic puzzles, and uncovering the cult's dark rituals."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_5",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3NNusa.webp",
+            "title": "OGUZOK HORROR 5",
+            "text_Content_": "As the investigation progresses, the line between reality and the supernatural blurs. The protagonist faces personal demons and must confront their own fears to break the curse. Along the way, they encounter townspeople with their own secrets, some aiding the investigation, while others may be influenced by the malevolent force."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_6",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3NNIzF.webp",
+            "title": "OGUZOK HORROR 6",
+            "text_Content_": "The climax reveals the truth about the Oguzok Horror—a malevolent entity seeking revenge for the sins of the past. The protagonist must make a harrowing choice to either banish the entity or succumb to the curse. The town's fate hangs in the balance as the protagonist confronts the horrors of Oguzok."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_7",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3NNTWg.webp",
+            "title": "OGUZOK HORROR 7",
+            "text_Content_": "The protagonist may be haunted by their own past, and the resolution involves confronting and overcoming personal demons."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_8",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3NNxb1.webp",
+            "title": "OGUZOK HORROR 8",
+            "text_Content_": "The town's inhabitants become increasingly distrustful and paranoid as the horror escalates, creating an atmosphere of isolation and fear."
         }
     ]
 }
